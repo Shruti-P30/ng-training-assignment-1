@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ng-training-assignment -1/1.0.0": {
+        "runtime": {
+          "ng-training-assignment -1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ng-training-assignment -1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
